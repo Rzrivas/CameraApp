@@ -1,0 +1,13 @@
+Used the following video to create this app https://www.youtube.com/watch?v=mN43W5AvTuI
+
+It isn't really useful for anything I made it as a way to learn how to use different phone hardware.
+
+Most of the code is copied aside from different variable names that I normally use.
+
+The capture button just opens up the normal camera app on your phone and displays images taken in the image viewer on your phone.
+
+It doesn't save the images no reason to since it is a way to learn how using different hardware and adding permissions in the manifest file.
+
+I added a landscape layout as well so the capture button doesn't sit on top of the image viewer.
+
+I added some screenshots as well.
